@@ -1,0 +1,12 @@
+{
+  "name": "CheckU",
+  "version": "0.0.1",
+  "description": "Checks Details Against Secure Source",
+  "dependencies": {
+    "connect": "~2.25.5",
+    "csv-parse": "0.0.6",
+    "mime": "~1.2.7",
+    "socket.io": "~1.0.6",
+    "stream-transform": "0.0.6"
+  }
+}
